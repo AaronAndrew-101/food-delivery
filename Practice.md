@@ -8,11 +8,11 @@
 ## Week 3. Layouts and resources for the UI
 - [Codelab 1.2 Part A: Your first interactive UI](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/)
 
-![Codelab 1.2A](./assets/cl1.2A.png)
+![Codelab 1.2A](./assets/hw2A.png)
 
 - [Codelab 1.2 Part B: The layout editor](https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/)
 
-![Codelab 1.2B](./assets/cl1.2B.png)
+![Codelab 1.2B](./assets/hw2B.png)
 
 ## Week 4. Activities and intents
 - [Codelab 2.1: Activities and intents](https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html)
