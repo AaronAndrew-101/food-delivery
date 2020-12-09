@@ -37,7 +37,7 @@
 ## Week 7. User Interaction
 - [Codelab 4.4: User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation)
 
-![Codelab 4.4](./assets/cl4.4.png)
+![Codelab 4.4](./assets/hw5C.png)
 
 - [Codelab 4.5: RecyclerView](https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view)
 
