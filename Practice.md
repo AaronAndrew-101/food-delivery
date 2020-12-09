@@ -28,11 +28,11 @@
 ## Week 6. User Interaction
 - [Codelab 4.1: Clickable images](https://codelabs.developers.google.com/codelabs/android-training-clickable-images)
 
-![Codelab 4.1](./assets/cl4.1.png)
+![Codelab 4.1](./assets/hw5A.png)
 
 - [Codelab 4.2: Input controls](https://codelabs.developers.google.com/codelabs/android-training-input-controls)
 
-![Codelab 4.2](./assets/cl4.2.png)
+![Codelab 4.2](./assets/cl4hw5B.png)
 
 ## Week 7. User Interaction
 - [Codelab 4.4: User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation)
