@@ -32,7 +32,7 @@
 
 - [Codelab 4.2: Input controls](https://codelabs.developers.google.com/codelabs/android-training-input-controls)
 
-![Codelab 4.2](./assets/cl4hw5B.png)
+![Codelab 4.2](./assets/hw5B.png)
 
 ## Week 7. User Interaction
 - [Codelab 4.4: User navigation](https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation)
