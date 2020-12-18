@@ -56,7 +56,7 @@
 ## Week 10. Notifications
 - [Codelab 8.1: Notifications](https://developer.android.com/codelabs/android-training-notifications)
 
-![Codelab 8.1](./assets/cl8.1.png)
+![Codelab 8.1](./assets/hw9.png)
 
 ## Week 11. Shared Preferences
 - [Codelab 9.1: Shared Preferences](https://developer.android.com/codelabs/android-training-shared-preferences)
