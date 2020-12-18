@@ -51,7 +51,7 @@
 ## Week 9. Background Tasks
 - [Codelab 7.2: AsyncTask and AsyncTaskLoader](https://developer.android.com/codelabs/android-training-asynctask-asynctaskloader)
 
-![Codelab 7.2](./assets/cl7.2.png)
+![Codelab 7.2](./assets/hw8.png)
 
 ## Week 10. Notifications
 - [Codelab 8.1: Notifications](https://developer.android.com/codelabs/android-training-notifications)
